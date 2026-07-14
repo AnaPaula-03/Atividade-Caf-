@@ -1,6 +1,8 @@
 <script setup>
 
 import { routerLink } from 'vue-router';
+import homeView from './views/homeView.vue';
+import avaliaçãoView from './views/avaliaçãoView.vue';
 
 </script>
 <template>

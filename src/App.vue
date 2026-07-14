@@ -1,7 +1,7 @@
 <script setup>
 
-import { ref } from 'vue'
-import homeView from './components/views/homeView.vue';
+import { RouterView } from 'vue-router';
+import AppHeader from './components/appHeader.vue';
 
 </script>
 
